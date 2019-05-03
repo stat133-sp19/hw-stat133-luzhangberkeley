@@ -46,10 +46,14 @@ Install the development version from GitHub via the package "devtools":
 #install.packages("devtools") 
 
 # install "binomial" (without vignettes)
-#devtools::install_github("gastonstat/cointoss")
+devtools::install_github("stat133-sp19/hw-stat133-luzhangberkeley/workout03/binomial")
+#> Skipping install of 'binomial' from a github remote, the SHA1 (387514f8) has not changed since last install.
+#>   Use `force = TRUE` to force installation
 
 # install "cointoss" (with vignettes)
-#devtools::install_github("gastonstat/cointoss", build_vignettes = TRUE)
+devtools::install_github("stat133-sp19/hw-stat133-luzhangberkeley/workout03/binomial", build_vignettes = TRUE)
+#> Skipping install of 'binomial' from a github remote, the SHA1 (387514f8) has not changed since last install.
+#>   Use `force = TRUE` to force installation
 ```
 
 Usage
