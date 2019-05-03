@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^doc$
+^Meta$
+^devtools-flow.R
+^README.md
+^Rplots.pdf
+^README.Rmd
